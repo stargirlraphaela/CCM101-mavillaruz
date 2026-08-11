@@ -80,7 +80,7 @@ df -h /
 
 ```bash
 cd ~
-mkdir -p Notes
+mkdir -p Documents Notes Reports Screenshot
 touch Notes/about-me.md
 cat Notes/about-me.md
 ```
