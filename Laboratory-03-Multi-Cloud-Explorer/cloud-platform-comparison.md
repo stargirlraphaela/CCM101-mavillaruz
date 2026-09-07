@@ -28,3 +28,12 @@ Google Cloud is a particularly strong choice for Artificial Intelligence, Machin
 
 I would personally choose AWS because it offers a broad selection of cloud services and provides strong scalability. It is suitable for different types of organizations, from startups to large enterprises, and provides many options for future growth.
 
+# Match the Cloud Services
+
+| Service Category    | AWS        | Azure                          | GCP                            |
+| ------------------- | ---------- | ------------------------------ | ------------------------------ |
+| Virtual Machine     | Amazon EC2 | Azure Virtual Machines         | Compute Engine                 |
+| Object Storage      | Amazon S3  | Azure Blob Storage             | Cloud Storage                  |
+| Identity Management | AWS IAM    | Microsoft Entra ID             | Cloud IAM                      |
+| SQL Database        | Amazon RDS | Azure SQL Database             | Cloud SQL                      |
+| Kubernetes          | Amazon EKS | Azure Kubernetes Service (AKS) | Google Kubernetes Engine (GKE) |
