@@ -1,4 +1,4 @@
-# Checkpoint 5 — Technical Documentation
+# Technical Documentation
 
 ## Docker Command Used
 
